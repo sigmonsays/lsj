@@ -1,3 +1,3 @@
-module github.com/barnaclebob/lsj
+module github.com/sigmonsays/lsj
 
 go 1.22
